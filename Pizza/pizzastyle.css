@@ -1,0 +1,84 @@
+    html{
+      background-image: url("SpanishBackdrop.png");
+    }
+    header{
+      text-align: center;
+      font-family: "verdana";
+      color: white;
+	  font-size: 150%;
+	  position: absolute;
+	  right: 42%;
+	  top: 1%;
+    }
+    main{
+      background-color: white;
+      width: 80%;
+      right: 2%;
+      top: 8%;
+	  border-radius: 0.4%;
+      position: absolute;
+	  padding: .25%;
+    }
+	a{
+	text-decoration: none;
+	}
+	.vertical-menu{
+	color: white;
+	text-decoration: none;
+	background-color: maroon;
+	width: 200%;
+	}
+	.vertical-menu:hover{
+	background-color: grey;
+	}
+    .logo{
+      position: fixed;
+      left: 0.5%;
+      top: 11%;
+      height: 46%;
+      width: 8%;
+      background-color: white;
+      border-radius: 5px;
+      border: 1%;
+      padding: .125%;
+	  font-size: 80%;
+    }
+	.hours{
+      position: fixed;
+      left: 0.5%;
+      top: 58%;
+      width: 8%;
+      background-color: white;
+      border-radius: 5px;
+      border: 1%;
+      padding: .125%;
+	  font-size: 85%;
+	  height: 40%;
+    }
+	tr, td{
+		border: 1px solid black;
+		padding: 0.05%;
+		background-color: beige;
+		margin: 10px;
+	}
+	table{
+		border-collapse: collapse;
+		border: 1px solid black;
+		width: 80%;
+		text-align: center;
+		position: relative;
+		margin: auto;
+	}
+	th{
+		border: 1px solid black;
+		font-size: 150%;
+		background-color: rgb(175,0,0);
+	}
+	h1{
+		font-weight: bold;
+		font-size: 150%;
+		font-family: verdana;
+	}
+	footer{
+		font-size: 30%;
+	}
