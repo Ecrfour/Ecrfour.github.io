@@ -28,7 +28,7 @@
 	background-color: maroon;
 	width: 200%;
 	}
-	.vertical-menu:hover{
+    .vertical-menu:hover{
 	background-color: grey;
 	}
     .logo{
@@ -80,5 +80,7 @@
 		font-family: verdana;
 	}
 	footer{
-		font-size: 30%;
+		font-size: 45%;
+		position: relative;
+		float: bottom;
 	}
