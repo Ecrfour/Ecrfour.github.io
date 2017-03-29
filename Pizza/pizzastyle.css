@@ -81,5 +81,6 @@
 	}
 	footer{
 		font-size: 45%;
-		position: relative
+		position: relative;
+		bottom: 0%;
 	}
